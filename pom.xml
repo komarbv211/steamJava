@@ -19,5 +19,12 @@
             <artifactId>postgresql</artifactId>
             <version>42.7.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-core</artifactId>
+            <version>6.6.6.Final</version>
+        </dependency>
     </dependencies>
+    <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+
 </project>
